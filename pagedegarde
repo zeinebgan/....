@@ -84,18 +84,13 @@
     </style>
 </head>
 <body>
-<!-- Navigation -->
-<nav>
     <a href="pagedegarde.html"> Accueil </a>
-</nav>
 
-<!-- En-tête -->
 <header>
     <h1>Bienvenue sur le site du Développement Personnel </h1>
     <p>Découvrez des ressources et des conseils pour vous épanouir pleinement et changer complètement</p>
 </header>
 
-<!-- Contenu Principal -->
 <div class="container">
 
     <!-- Section Introduction -->
@@ -124,7 +119,7 @@
         </div>
     </section>
 
-    <!-- Section En savoir plus -->
+
     <section id="en-savoir-plus" class="intro">
         <h2> Quelques livres </h2>
         <img src="https://images-eu.ssl-images-amazon.com/images/I/71lzx+zgYEL._AC_UL600_SR600,600_.jpg" alt="Livre développement personnel" />
@@ -133,7 +128,6 @@
     </section>
 </div>
 
-<!-- Footer -->
 <footer id="contact">
     <p>&copy; 19-11-2024 Révélation 360° | <a href="mailto:Zgannouni.eleve@ec-tunis.com"> Contactez-nous </a></p>
 </footer>
