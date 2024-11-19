@@ -93,14 +93,13 @@
 
 <div class="container">
 
-    <!-- Section Introduction -->
+
     <section id="intro" class="intro">
         <h2>Introduction au Développement Personnel</h2>
         <p>Le développement personnel est basé sur le courage de se mettre en jeu dans un parcours de connaissance de soi et de sortir de sa zone de confort vers une plus grande conscience de ses limites, mais aussi de ses capacités. Découvrons ensemble un nouveau mode de vie pour améliorer votre bien-être mental, physique et émotionnel.</p>
         <img src="https://www.biotyfullbox.fr/cosmetique-bio/wp-content/uploads/shutterstock_1007882572-1200x800.jpg" alt="Image développement personnel" />
     </section>
 
-    <!-- Section Plus d'informations -->
     <section id="plus-dinformations" class="section">
         <div>
             <h3> Trouver une nouvelle version de soi </h3>
